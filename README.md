@@ -17,29 +17,27 @@ class Profile {
 
 	hardware = {
 		monitors: [
-			"BenQ EX2780Q 27-Inch QHD 144hz",
-			"BenQ EX2780Q 27-Inch QHD 144hz"
+			"AOC 24-Inch FHD 144hz",
+			"LG EX2780Q 24-Inch FHD 144hz"
 		],
 		peripherals: {
-			mouse: "Logitech G PRO X SUPERLIGHT",
-			keyboard: "Keychron K8 Pro",
-			headphones: "Logitech G PRO X",
-			deskmat: "Logitech G840 XL",
+			mouse: "Bloody v8",
+			keyboard: "ZetGaming",
+			headphones: "Droples",
+			deskmat: "ZetGaming Black",
 		},
 		audio: {
-			microphone: "Shure SM7B",
-			preamp: "sE Electronics DM1 Dynamite",
-			audioInterface: "RØDECaster Pro",
+			microphone: "Samson Meteor Mic",
 		},
 		specs: {
-			case: "Fractal Design North Tempered Glass",
-			motherboard: "ASUS ROG STRIX B550-F GAMING",
-			cpu: "AMD Ryzen 7 5700X",
-			cooler: "Noctua NH-D15",
-			gpu: "MSI GeForce RTX 3060",
-			ram: "Corsair Vengeance LPX 32GB 2x16GB 3200MHz",
+			case: "MSI MPG GUNGNIR 110R",
+			motherboard: "GIGABYTE B550 AORUS ELITE V2",
+			cpu: "AMD Ryzen 7 5800X",
+			cooler: "GamerStorm Assassin III",
+			gpu: "MSI GeForce RTX 4070 TI",
+			ram: "G.Skill AEGIS 32GB 2x16GB 3200MHz",
 			storage: ["Samsung 970 EVO Plus 2 TB", "Samsung 980 500 GB"],
-			pcu: "Thermaltake Toughpower GF1 PE 850W 80+ Gold",
+			pcu: "Chieftec Silicon 750W",
 		},
 	};
 }
